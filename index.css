@@ -1,8 +1,8 @@
 
 body
 {
-height: 200px;
-width: 100px;
+height: 100%;
+width: 50%;
 }
 
 header
@@ -12,6 +12,11 @@ header
   justify-content: space-between;
   align-items: center;
   background-color: rgb(148, 200, 133);
+}
+
+#logo{
+  height: 10px;
+  width: 25px;
 }
 
 #Home{
@@ -27,7 +32,8 @@ header
 }
 
 .icone{
- size: 10px 10px;
+  height: 10px;
+  width: 10px;
 }
 
 .divisor{
