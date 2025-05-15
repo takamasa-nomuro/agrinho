@@ -24,3 +24,8 @@ header
 .Icone{
  size: 10px 10px;
 }
+
+.divisor{
+   height: 200px;
+   border-right: 1px solid black;
+}
