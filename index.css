@@ -9,3 +9,8 @@ header
   background-color: rgb(148, 200, 133);
   padding: 16cm;
 }
+
+#Home{
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ font-size: 20cm;
+}
