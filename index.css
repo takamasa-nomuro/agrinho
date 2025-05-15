@@ -10,11 +10,13 @@ header
 }
 
 #Home{
- font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
- 
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ font-size: 10px;
 }
 
 #info{
- font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
- 
+ font-family: 'Times New Roman', Times, serif;
+ font-weight: bold;
+ font-size: 10px;
 }
