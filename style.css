@@ -46,6 +46,13 @@
     vertical-align: middle; 
 }
 
+header ul{
+  list-style: none;
+  text-align: center;
+  display: inline-block;
+  padding: 10px;
+}
+
 .imagem_parallax{
     background-image: url(img/imagem\ inicial.png);  
 
@@ -84,7 +91,7 @@ h2{
   font-family: sans-serif;
   font-weight:bolder;
   color: white;
-  font-size: 40px;
+  font-size: 30px;
   margin: 25px;
 }
 
@@ -94,7 +101,62 @@ body{
 
 #texto1{
   font-family: sans-serif;
-  font-size: 30px;
-  line-break: auto;
+  font-size: 25px;
+  font-weight: bold;
   color: white;
+  word-break:normal;
+  padding-right: 200px;
+}
+
+#inicio img{
+  height: 370px;
+  width: 700px;
+  margin-left: 20px;
+  border-radius: 20px;
+}
+
+
+#inicio {
+    display: flex;
+    align-items: center;
+    gap: 32px;
+    padding: 24px,80px,128px,80px;
+    position: relative;
+}
+
+.card {
+ padding: 1rem;
+ margin: 2rem;
+ width: 20em;
+ height: 20em;
+ color: #fff;
+ box-shadow: 0 0 20px rgba(93, 93, 93, 0.2);
+ text-align: center;
+ border-radius: 20px;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+
+#cartoes{
+    display:grid;
+    grid-template-columns: auto auto auto;
+    align-items: center;
+    justify-content: space-around;
+}
+
+#cartoes p{
+font-family: sans-serif;
+font-size: 20px;
+word-break: normal;
+}
+
+#cartoes b{
+font-family: sans-serif;
+font-weight: bold;
+font-size: 25px;
 }
