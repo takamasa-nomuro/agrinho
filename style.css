@@ -125,6 +125,7 @@ body{
     position: relative;
 }
 
+
 .card {
  padding: 1rem;
  margin: 2rem;
@@ -259,4 +260,93 @@ footer a{
 
 footer ul{
   list-style: none;
+}
+
+@media (max-width: 1024px) {
+  #inicio {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+
+  #inicio img {
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+  }
+
+  #texto1 {
+    padding: 20px;
+  }
+
+  #cartoes {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 20px;
+    padding: 20px;
+  }
+
+  .card {
+    width: 100%;
+    height: auto;
+  }
+
+  h1 {
+    font-size: 36px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 24px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 768px) {
+  .Navbar {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .Navbar__Items {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .Navbar__Items--right {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  header li {
+    display: block;
+    padding: 8px 0;
+  }
+
+  #cartoes {
+    grid-template-columns: 1fr;
+  }
+
+  #titulo {
+    height: auto;
+    padding: 20px;
+    text-align: center;
+  }
+
+  #contato {
+    height: auto;
+    padding: 20px;
+  }
+
+  #info {
+    padding: 20px;
+  }
+
+  footer {
+    flex-direction: column;
+    align-items: center;
+    height: auto;
+    padding: 20px;
+    text-align: center;
+  }
 }

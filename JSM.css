@@ -195,3 +195,67 @@ footer a{
 footer ul{
   list-style: none;
 }
+
+@media (max-width: 600px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  #titulo2, #titulo3, #ajuda, #texto1, #link {
+    font-size: 16px;
+    margin: 15px 10px;
+  }
+
+  #ajuda li, #link li {
+    margin: 15px 0;
+  }
+
+  #texto1 {
+    margin: 20px 10px;
+    padding: 0 10px;
+  }
+
+  footer {
+    flex-direction: column;
+    height: auto;
+    padding: 20px 10px;
+  }
+
+  footer ul {
+    margin-bottom: 15px;
+  }
+
+  footer h3 {
+    font-size: 18px;
+  }
+
+  footer p, footer a {
+    font-size: 14px;
+    margin: 5px 0;
+  }
+
+  .Navbar {
+    flex-wrap: wrap;
+    padding: 10px;
+  }
+
+  .Navbar__Items {
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .Navbar__Items--right {
+    margin-left: 0;
+    width: 100%;
+  }
+
+  header li {
+    display: block;
+    padding: 8px 0;
+  }
+
+  .imagem_parallax {
+    background-attachment: scroll;
+    min-height: 300px;
+  }
+}
