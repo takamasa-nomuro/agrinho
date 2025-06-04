@@ -50,6 +50,10 @@ body{
   background-color: #2A292F;
 }
 
+audio{
+  margin: 30px;
+}
+
 header li{
   list-style: none;
   text-align: center;
