@@ -191,6 +191,27 @@ grid-area: sidebar;
   justify-content: center;
 }
 
+#centralizar{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#quadrado{
+  width: 40%;
+  height: auto;
+  background-color: #94C885;
+}
+
+#quadrado p{
+  font-family: sans-serif;
+  font-size: 15px;
+  font-weight: bold;
+  color: white;
+  word-break:normal;
+  padding: 30px;
+}
+
 .flip-card {
   background-color: transparent;
   width: 450px;
