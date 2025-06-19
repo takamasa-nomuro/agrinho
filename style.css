@@ -221,6 +221,57 @@ border: 10px;
 margin: 10px;
 }
 
+form {
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: sans-serif;
+}
+
+form div {
+  margin-bottom: 16px;
+}
+
+label {
+  display: block;
+  font-weight: bold;
+  margin-bottom: 6px;
+  color: #3b5733;
+}
+
+input[type="text"],
+input[type="email"] {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #94C885;
+  border-radius: 20px;
+  font-size: 16px;
+  box-sizing: border-box;
+}
+
+input:focus {
+  outline: none;
+  border-color: #6a9d5d;
+  box-shadow: 0 0 4px rgba(106, 157, 93, 0.5);
+}
+
+button[type="submit"] {
+  background-color: #94C885;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #7fb169;
+}
+
 footer{
   background-color: #18171B;
   display: flex;
