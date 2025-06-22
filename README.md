@@ -17,3 +17,8 @@ Juntos Somos Melhores- nave bar semelhante a todas, áudios referentes ao texto,
 
 # Como Visualizar
 - Acesse o link disponibilizado no about deste repositório.
+
+# Créditos
+-Tema base no regulamento oficial do concurso Agrinho 2025 
+
+-Elementos e ícones cridos no Canva.com
