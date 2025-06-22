@@ -11,9 +11,9 @@ Agricultura- mesma nave bar com os 5 itens, áudios para cada texto, podendo dim
 Juntos Somos Melhores- nave bar semelhante a todas, áudios referentes ao texto, podendo diminuir e aumentar o volume, no final da página possuindo 3 links que diferentes que levam para sites de trabalho voluntário referente ao tema, no final futer com os liks rapidos.
 
 # Linguagens Utilizadas 
-- HTML:Formação da estrutura do codigo.
+- HTML: Formação da estrutura do codigo.
 
-- CSS:Parte visual,sonora, responsiva e interativa. 
+- CSS: Parte visual, sonora, responsiva e interativa. 
 
 # Como Visualizar
 - Acesse o link disponibilizado no about deste repositório.
