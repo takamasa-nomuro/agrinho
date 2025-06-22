@@ -23,13 +23,13 @@ Juntos Somos Melhores- nave bar semelhante a todas, áudios referentes ao texto,
 
 -Elementos e ícones cridos no [Canva.com](https://www.canva.com/pt_pt), baseados em modelos da internet.
 
--Informação e códigos inspirados do [W3Schools].(https://www.w3schools.com/)
+-Informação e códigos inspirados do [W3Schools](https://www.w3schools.com/).
 
--Referências tiradas do ["Agro Estadão "].(https://agro.estadao.com.br/)
+-Referências tiradas do ["Agro Estadão "](https://agro.estadao.com.br/).
 
--Conhecimentos e códigos utilizados no [Alura].(https://www.alura.com.br/?srsltid=AfmBOooHK6bb0rumOsW16ZBxZh_JOFI4bjRL9V5FpOPMaFRm_jRmj-af)
+-Conhecimentos e códigos utilizados no [Alura](https://www.alura.com.br/?srsltid=AfmBOooHK6bb0rumOsW16ZBxZh_JOFI4bjRL9V5FpOPMaFRm_jRmj-af).
 
--Informações tiradas do [gov.br].(https://www.gov.br/agricultura/pt-br)
+-Informações tiradas do [gov.br](https://www.gov.br/agricultura/pt-br).
 
 -Imagens pesquisadas com as ferramentas do Google, que disponibilizava fotos com direito de uso. 
 
